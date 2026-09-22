@@ -23,4 +23,4 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 # 测试 commit 规范
-print("故意改错"
+print("故意改错")
